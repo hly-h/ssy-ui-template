@@ -1,3 +1,9 @@
+## 项目合作
+- git pull
+- git pull --rebase
+- git switch
+- merge
+
 # ssy-ui-template
 
 This template should help get you started developing with Vue 3 in Vite.
