@@ -4,6 +4,7 @@ This template should help get you started developing with Vue 3 in Vite.
 Merge
 revert1
 revert test
+git switch -m
 
 ## Recommended IDE Setup
 
