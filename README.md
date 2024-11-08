@@ -37,7 +37,6 @@ pnpm build
 ```sh
 pnpm test:unit
 ```
-testMerge
 
 ### Lint with [ESLint](https://eslint.org/)
 
