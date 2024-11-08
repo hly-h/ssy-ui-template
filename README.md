@@ -50,7 +50,8 @@ merge test
 This template should help get you started developing with Vue 3 in Vite.
 Merge
 revert1
-
+reset 
+rebase
 
 ## Recommended IDE Setup
 
